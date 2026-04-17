@@ -1,0 +1,3 @@
+# Deaktiviert die automatische Zeilenendekonvertierung für alle Dateien 
+# im kalipoints_datasets Ordner.
+kalipoints_datasets/** text eol=lf

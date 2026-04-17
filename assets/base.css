@@ -1,0 +1,18 @@
+html,
+body,
+#react-entry-point {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+#react-entry-point > div {
+    height: 100%;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}

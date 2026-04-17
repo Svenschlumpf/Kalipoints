@@ -1,0 +1,7 @@
+# Ignore generated/large dataset files in datasets/
+datasets/**
+
+# Keep dataset scripts and folder structure tracked
+!datasets/
+!datasets/**/
+!datasets/**/*.py
